@@ -1,0 +1,34 @@
+_repo: An0xe6sthetics-antient-and-modern-b-An-historical-sketch-of-an0xe6sthesia_75020
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2025-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75020'
+language: en
+pgterms:marc904: https://archive.org/details/39002022398946.med.yale.edu
+pgterms:marc905: 20231217124845anon
+pgterms:marc906: '1907'
+pgterms:marc907: GB
+production_note: Thiers Halliwell, deaurider and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bBurroughs Wellcome & Co, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Anæsthetics antient and modern : $b An historical sketch of anæsthesia'
+url: http://www.gutenberg.org/ebooks/75020
